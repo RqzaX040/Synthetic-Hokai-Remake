@@ -1,14 +1,14 @@
 {
-  "name": "synthetic-horizon-database",
+  "name": "synthetic-hokai-database",
   "version": "1.2.3",
-  "description": "Database tổng hợp ngắn gọn cho Fca-Horizon-Remake",
+  "description": "Database tổng hợp ngắn gọn cho Fca-Hokai-Remake",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HarryWakazaki/Synthetic-Horizon-Database"
+    "url": "https://github.com/RqzaX040/Synthetic-Hokai-Database"
   },
   "dependencies": {
     "lodash": "latest",
@@ -22,6 +22,6 @@
     "Horizon",
     "Database"
   ],
-  "author": "KanzuWakazaki",
+  "author": "RqzaX",
   "license": "ISC"
 }
